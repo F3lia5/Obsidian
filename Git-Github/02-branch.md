@@ -52,3 +52,14 @@ git branch                           # branch listesi
 Branch oluşturduğunda Git dosyaların **kopyasını almaz** — sadece mevcut commit'e işaret eden yeni bir pointer oluşturur. Bu yüzden branch oluşturmak çok "ucuz" (hafif, hızlı) bir işlemdir.
 
 `main`'e geri döndüğünde başka bir branch'te commit'lediğin dosyaları göremezsin, çünkü o commit henüz `main`'in tarihçesine hiç girmemiştir.
+
+---
+
+## 🔗 İlgili Dersler
+
+- [[01-git-nedir-ve-neden-kullanilir|Git Nedir?]]
+- [[03-merge|Merge]]
+- [[04-rebase|Rebase]]
+- [[05-conflict-cozme|Conflict Çözme]]
+- [[06-remote-branch-tracking|Remote Branch Tracking]]
+- [[09-pull-request|Pull Request]]

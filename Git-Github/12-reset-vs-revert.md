@@ -70,3 +70,12 @@ git revert <commit-hash>
 ## Kritik Nokta — Neden `main`'e Force Push Yasaklanır?
 
 `reset --hard` geçmişi siler. Eğer bu, zaten push edilmiş bir commit üzerinde yapılıp `git push --force` ile GitHub'a gönderilirse, o commit'i çeken (fetch/pull eden) diğer geliştiricilerin local geçmişiyle sunucudaki geçmiş **artık uyuşmaz** hale gelir. Bu yüzden şirketler **branch protection** ile `main`'e force push'u tamamen engeller — geçmiş asla geriye doğru silinemez, sadece `revert` ile ileriye doğru düzeltilebilir.
+
+---
+
+## 🔗 İlgili Dersler
+
+- [[03-merge|Merge]]
+- [[04-rebase|Rebase]]
+- [[10-commit-mesajlari|İyi Commit Mesajı]]
+- [[11-log-diff-stash|git log / diff / stash]]

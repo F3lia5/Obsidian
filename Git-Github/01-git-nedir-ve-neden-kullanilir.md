@@ -71,3 +71,13 @@ git commit -m "mesaj"     # staging area'daki değişikliği kalıcı kaydeder
 
 - Git init ile bir proje otomatik olarak "takip altına" girmez; dosyaları `add` ile açıkça eklemen gerekir.
 - `git status`, working tree (henüz add edilmemiş), staging area (add edilmiş, commit edilmemiş) ve repository (commit edilmiş) arasındaki farkı gösterir.
+
+---
+
+## 🔗 İlgili Dersler
+
+- [[02-branch|Branch]]
+- [[03-merge|Merge]]
+- [[04-rebase|Rebase]]
+- [[06-remote-branch-tracking|Remote Branch Tracking]]
+- [[07-fetch-vs-pull|Fetch vs Pull]]

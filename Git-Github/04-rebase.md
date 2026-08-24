@@ -67,3 +67,13 @@ git rebase -i HEAD~3
 ## Kritik Nokta
 
 Rebase sonrası commit hash'leri **değişir**, çünkü bunlar teknik olarak yeni commit'lerdir (farklı ebeveyne sahipler). İçerik aynı olsa da Git için bunlar farklı objelerdir.
+
+---
+
+## 🔗 İlgili Dersler
+
+- [[02-branch|Branch]]
+- [[03-merge|Merge]]
+- [[05-conflict-cozme|Conflict Çözme]]
+- [[07-fetch-vs-pull|Fetch vs Pull]]
+- [[12-reset-vs-revert|Reset vs Revert]]

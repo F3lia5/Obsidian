@@ -62,3 +62,12 @@ Push başarılı olduğunda çıktının son satırı şunu gösterir:
 branch 'main' set up to track 'origin/main'.
 ```
 Bu, tracking ilişkisinin tam o anda kurulduğunu gösterir.
+
+---
+
+## 🔗 İlgili Dersler
+
+- [[02-branch|Branch]]
+- [[07-fetch-vs-pull|Fetch vs Pull]]
+- [[08-fork|Fork]]
+- [[09-pull-request|Pull Request]]

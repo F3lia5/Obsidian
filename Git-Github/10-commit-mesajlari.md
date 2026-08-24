@@ -73,3 +73,12 @@ style(login): buton rengi değiştirildi
 fix(login): kullanıcı adı boş olduğunda hata veren bug düzeltildi
 ```
 Not: Buton rengi `refactor` değil `style`'dır — davranış değişmiyor, sadece görünüm değişiyor. `refactor`, davranışı aynı bırakıp kodun iç yapısını değiştirmektir.
+
+---
+
+## 🔗 İlgili Dersler
+
+- [[01-git-nedir-ve-neden-kullanilir|Git Nedir?]]
+- [[09-pull-request|Pull Request]]
+- [[11-log-diff-stash|git log / diff / stash]]
+- [[12-reset-vs-revert|reset vs revert]]

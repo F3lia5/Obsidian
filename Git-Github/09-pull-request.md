@@ -67,3 +67,14 @@ git --no-pager log --oneline          # geçici çözüm
 git config --global core.pager cat    # kalıcı çözüm
 sudo apt install less                 # gerçek çözüm
 ```
+
+---
+
+## 🔗 İlgili Dersler
+
+- [[02-branch|Branch]]
+- [[03-merge|Merge]]
+- [[05-conflict-cozme|Conflict Çözme]]
+- [[06-remote-branch-tracking|Remote Branch Tracking]]
+- [[08-fork|Fork]]
+- [[10-commit-mesajlari|İyi Commit Mesajı]]

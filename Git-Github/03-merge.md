@@ -53,3 +53,13 @@ git merge feature/deneme
 ## Kritik Nokta
 
 Fast-forward mı yoksa gerçek merge mi olacağı, `main`'in senin çalışman sırasında değişip değişmediğine bağlıdır. Değişmediyse fast-forward, değiştiyse merge commit (veya conflict) oluşur.
+
+---
+
+## 🔗 İlgili Dersler
+
+- [[02-branch|Branch]]
+- [[04-rebase|Rebase]]
+- [[05-conflict-cozme|Conflict Çözme]]
+- [[09-pull-request|Pull Request]]
+- [[12-reset-vs-revert|Reset vs Revert]]

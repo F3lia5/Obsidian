@@ -56,3 +56,12 @@ git commit    # merge conflict'ini kapatır
 ## Kritik Nokta
 
 `git status`, conflict sırasında hangi dosyaların çakıştığını açıkça listeler ("both modified" gibi ifadelerle) — panik yapmadan önce her zaman ilk bakılacak yer burasıdır.
+
+---
+
+## 🔗 İlgili Dersler
+
+- [[02-branch|Branch]]
+- [[03-merge|Merge]]
+- [[04-rebase|Rebase]]
+- [[07-fetch-vs-pull|Fetch vs Pull]]

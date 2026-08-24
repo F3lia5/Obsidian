@@ -61,3 +61,11 @@ git remote add upstream git@github.com:orijinal-sahip/orijinal-repo.git
 git fetch upstream
 git merge upstream/main
 ```
+
+---
+
+## 🔗 İlgili Dersler
+
+- [[06-remote-branch-tracking|Remote Branch Tracking]]
+- [[09-pull-request|Pull Request]]
+- [[02-branch|Branch]]

@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40e3cf82d23ef052",
+        "id": "cddf8a1ea6ff26b0",
         "type": "tabs",
         "children": [
           {
-            "id": "87dff7125a4d6eb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git-Github/01-git-nedir-ve-neden-kullanilir.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-git-nedir-ve-neden-kullanilir"
-            }
-          },
-          {
-            "id": "aeebee7c99b1323f",
+            "id": "a66c1c02c32eb522",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -31,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,9 +183,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "aeebee7c99b1323f",
+  "active": "a66c1c02c32eb522",
   "lastOpenFiles": [
+    "Python/02-Temel-Sozdizimi.md",
+    "Projects/ExpenseTrack_Yapilacaklar_Listesi.md",
+    "Python/01-Python Kurulumu.md",
     "Git-Github/01-git-nedir-ve-neden-kullanilir.md",
+    "Git-Github/07-fetch-vs-pull.md",
     "Web-HTTP/08-http-status-codes.md",
     "Web-HTTP/07-http-headers.md",
     "Web-HTTP/06-http-methods.md",
@@ -216,7 +205,6 @@
     "Python/07-Listeler.md",
     "Python/12-Scope.md",
     "Python/11-Fonksiyonlar.md",
-    "Projects/ExpenseTrack_Yapilacaklar_Listesi.md",
     "Python/21-Standart-Kutuphaneler.md",
     "Python/20-Ileri-Python.md",
     "Python/19-OOP.md",
@@ -225,9 +213,6 @@
     "Python/15-Hata-Yonetimi.md",
     "Python/14-Dosya-Islemleri.md",
     "Python/13-Moduller.md",
-    "Python/Enum.md",
-    "Python/01-Python Kurulumu.md",
-    "Python/01-Python Kurulumu.md",
     "Projects",
     "files(2).zip",
     "Python/Modules",

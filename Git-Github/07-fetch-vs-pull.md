@@ -72,3 +72,12 @@ Fast-forward
 `fetch` sadece `origin/main`'i güncelledi (local `main` hâlâ eski). `git status` bunu "behind" diyerek doğruladı. `git pull` ise fast-forward ile local `main`'i de güncel hale getirdi.
 
 **Özet: fetch = bilgi al, pull = bilgi al + uygula.**
+
+---
+
+## 🔗 İlgili Dersler
+
+- [[06-remote-branch-tracking|Remote Branch Tracking]]
+- [[04-rebase|Rebase]]
+- [[05-conflict-cozme|Conflict Çözme]]
+- [[09-pull-request|Pull Request]]

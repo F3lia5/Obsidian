@@ -62,3 +62,13 @@ git switch hotfix/acil-bug
 git switch main
 git stash pop   # yarım işin geri geldi
 ```
+
+---
+
+## 🔗 İlgili Dersler
+
+- [[10-commit-mesajlari|İyi Commit Mesajı]]
+- [[12-reset-vs-revert|reset vs revert]]
+- [[02-branch|Branch]]
+- [[03-merge|Merge]]
+- [[05-conflict-cozme|Conflict Çözme]]
