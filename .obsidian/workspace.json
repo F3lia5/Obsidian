@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "672b2f7956ece35e",
+    "type": "split",
+    "children": [
+      {
+        "id": "40e3cf82d23ef052",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87dff7125a4d6eb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git-Github/01-git-nedir-ve-neden-kullanilir.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-git-nedir-ve-neden-kullanilir"
+            }
+          },
+          {
+            "id": "aeebee7c99b1323f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a5d167ca466046f",
+    "type": "split",
+    "children": [
+      {
+        "id": "651945a0bdfbea32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3e9a2c4cdf0eb00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8369b03d841d442a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e33419791fc855e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a2abf1e0d83cec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85108f523c2614eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bf917d87537c4cb2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e056a4cb75eef471",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7f0227918e5c10c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "962cac963104285f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c6cf73663be7d511",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/ExpenseTrack_Yapilacaklar_Listesi.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "aeebee7c99b1323f",
+  "lastOpenFiles": [
+    "Git-Github/01-git-nedir-ve-neden-kullanilir.md",
+    "Web-HTTP/08-http-status-codes.md",
+    "Web-HTTP/07-http-headers.md",
+    "Web-HTTP/06-http-methods.md",
+    "Web-HTTP/05-https.md",
+    "Web-HTTP/04-http-nedir.md",
+    "Web-HTTP/03-tcp.md",
+    "Web-HTTP/02-dns-ip-port.md",
+    "Web-HTTP/01-internet-nasil-calisir-client-server.md",
+    "Web-HTTP",
+    "web-http-temelleri.zip",
+    "Python/16-List-Comprehension.md",
+    "Python/10-Dictionary.md",
+    "Python/07-Listeler.md",
+    "Python/12-Scope.md",
+    "Python/11-Fonksiyonlar.md",
+    "Projects/ExpenseTrack_Yapilacaklar_Listesi.md",
+    "Python/21-Standart-Kutuphaneler.md",
+    "Python/20-Ileri-Python.md",
+    "Python/19-OOP.md",
+    "Python/18-Decorator.md",
+    "Python/17-Generator.md",
+    "Python/15-Hata-Yonetimi.md",
+    "Python/14-Dosya-Islemleri.md",
+    "Python/13-Moduller.md",
+    "Python/Enum.md",
+    "Python/01-Python Kurulumu.md",
+    "Python/01-Python Kurulumu.md",
+    "Projects",
+    "files(2).zip",
+    "Python/Modules",
+    "Python"
+  ]
+}
