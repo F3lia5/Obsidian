@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cddf8a1ea6ff26b0",
+        "id": "b589bd8c906fbfbc",
         "type": "tabs",
         "children": [
           {
-            "id": "a66c1c02c32eb522",
+            "id": "f7177a6cdf77fbc6",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -183,8 +183,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a66c1c02c32eb522",
+  "active": "f7177a6cdf77fbc6",
   "lastOpenFiles": [
+    "Web-HTTP/01-internet-nasil-calisir-client-server.md",
     "Python/02-Temel-Sozdizimi.md",
     "Projects/ExpenseTrack_Yapilacaklar_Listesi.md",
     "Python/01-Python Kurulumu.md",
@@ -197,7 +198,6 @@
     "Web-HTTP/04-http-nedir.md",
     "Web-HTTP/03-tcp.md",
     "Web-HTTP/02-dns-ip-port.md",
-    "Web-HTTP/01-internet-nasil-calisir-client-server.md",
     "Web-HTTP",
     "web-http-temelleri.zip",
     "Python/16-List-Comprehension.md",

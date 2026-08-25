@@ -74,3 +74,8 @@ print(response.json())       # server'ın döndürdüğü veri
 - [[06-http-methods|HTTP Methods]]
 - [[07-http-headers|HTTP Headers]]
 - [[08-http-status-codes|HTTP Status Codes]]
+- [[09-cookies|Cookies]]
+- [[10-sessions|Sessions]]
+- [[11-json|JSON]]
+- [[12-rest|REST]]
+- [[13-api|API Nedir?]]
