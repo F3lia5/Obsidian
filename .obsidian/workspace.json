@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web-HTTP/06-http-methods.md",
+                "file": "Html-Css-JS/08-fetch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-http-methods"
+              "title": "08-fetch"
             }
           }
         ]
@@ -174,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,6 +190,20 @@
   },
   "active": "f7177a6cdf77fbc6",
   "lastOpenFiles": [
+    "Web-HTTP/08-http-status-codes.md",
+    "Python/10-Dictionary.md",
+    "Html-Css-JS/06-javascript-temelleri.md",
+    "Html-Css-JS/07-dom-ve-events.md",
+    "Html-Css-JS/08-fetch.md",
+    "Web-HTTP/13-api.md",
+    "Html-Css-JS/05-css-flexbox-grid-responsive.md",
+    "Html-Css-JS/04-css-selectors-box-model.md",
+    "Html-Css-JS/03-html-forms-inputs.md",
+    "Html-Css-JS/02-html-attributes-semantic.md",
+    "Html-Css-JS/01-html-nedir-temel-yapi.md",
+    "Html-Css-JS",
+    "html-css-js-temelleri.zip",
+    "Web-HTTP/06-http-methods.md",
     "Web-HTTP/07-http-headers.md",
     "Web-HTTP/01-internet-nasil-calisir-client-server.md",
     "Python/02-Temel-Sozdizimi.md",
@@ -198,8 +211,6 @@
     "Python/01-Python Kurulumu.md",
     "Git-Github/01-git-nedir-ve-neden-kullanilir.md",
     "Git-Github/07-fetch-vs-pull.md",
-    "Web-HTTP/08-http-status-codes.md",
-    "Web-HTTP/06-http-methods.md",
     "Web-HTTP/05-https.md",
     "Web-HTTP/04-http-nedir.md",
     "Web-HTTP/03-tcp.md",
@@ -207,18 +218,8 @@
     "Web-HTTP",
     "web-http-temelleri.zip",
     "Python/16-List-Comprehension.md",
-    "Python/10-Dictionary.md",
     "Python/07-Listeler.md",
     "Python/12-Scope.md",
-    "Python/11-Fonksiyonlar.md",
-    "Python/21-Standart-Kutuphaneler.md",
-    "Python/20-Ileri-Python.md",
-    "Python/19-OOP.md",
-    "Python/18-Decorator.md",
-    "Python/17-Generator.md",
-    "Python/15-Hata-Yonetimi.md",
-    "Python/14-Dosya-Islemleri.md",
-    "Python/13-Moduller.md",
     "Projects",
     "files(2).zip",
     "Python/Modules",
