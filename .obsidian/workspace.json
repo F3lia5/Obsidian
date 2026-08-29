@@ -11,10 +11,14 @@
             "id": "f7177a6cdf77fbc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Web-HTTP/06-http-methods.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "06-http-methods"
             }
           }
         ]
@@ -64,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e33419791fc855e6",
@@ -169,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,6 +191,7 @@
   },
   "active": "f7177a6cdf77fbc6",
   "lastOpenFiles": [
+    "Web-HTTP/07-http-headers.md",
     "Web-HTTP/01-internet-nasil-calisir-client-server.md",
     "Python/02-Temel-Sozdizimi.md",
     "Projects/ExpenseTrack_Yapilacaklar_Listesi.md",
@@ -192,7 +199,6 @@
     "Git-Github/01-git-nedir-ve-neden-kullanilir.md",
     "Git-Github/07-fetch-vs-pull.md",
     "Web-HTTP/08-http-status-codes.md",
-    "Web-HTTP/07-http-headers.md",
     "Web-HTTP/06-http-methods.md",
     "Web-HTTP/05-https.md",
     "Web-HTTP/04-http-nedir.md",
